@@ -1,7 +1,7 @@
 # html_email_sample1
 Email template used for various scenarios on a website: For instance when Registering on a website; when Subscribing for a Newsletter;  sending Notification to website users and much more...
 
-<img src="#" width="812" height="885" alt="">             
+<img src="https://github.com/ShaviyaVictor/html_email_sample1/blob/main/assets/images/html_template1.png?raw=true" width="812" height="885" alt="">             
 
 ## Built With
 
@@ -16,10 +16,7 @@ Email template used for various scenarios on a website: For instance when Regist
 This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
 
 ## Resources
-- [Source](https://my.stripo.email/cabinet/#/template-editor/?emailId=4320871&projectId=727474&templateId=489354&type=PUBLIC_TEMPLATE&copyCount=1&templateProjectId=281340)          
-- [Image source](#)          
-- [Image Download Link](#)          
-- [StackOverflow](#)          
+- [Source](https://my.stripo.email/cabinet/#/template-editor/?emailId=4320871&projectId=727474&templateId=489354&type=PUBLIC_TEMPLATE&copyCount=1&templateProjectId=281340)         
 
 
 ## Acknowledgments
