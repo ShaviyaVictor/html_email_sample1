@@ -1,7 +1,7 @@
 # html_email_sample1
 Email template used for various scenarios on a website: For instance when Registering on a website; when Subscribing for a Newsletter;  sending Notification to website users and much more...
 
-<img src="#" width="600" height="350" alt="">             
+<img src="#" width="812" height="885" alt="">             
 
 ## Built With
 
